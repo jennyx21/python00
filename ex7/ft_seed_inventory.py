@@ -6,7 +6,7 @@ def ft_seed_inventory(a, b, c):
     elif c == "area":
         print(a, " seeds:", b, " square meters")
     else:
-        print("no coorect unit found")
+        print("no corect unit found")
 
 
 # def main():
